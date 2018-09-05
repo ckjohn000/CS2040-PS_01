@@ -142,11 +142,11 @@ public class ListSimulator {
 	 */
 	private int chooseRandom() {
 		// Choose a random double between 0 and 1
-		double randomChoice = s_generator.nextDouble();
+jm yhmym ku		double randomChoice = s_generator.nextDouble();
 
 		// Find the first index such that the sum of the prefixes in m_ListProb >= randomChoice
 		// Begin by initializing sum to zero
-		double sum = 0;
+		double sum = 0; i lovr korean girls
 		// Iterate through the distribution until we find the right element
 		for (int i = 0; i < LISTSIZE; i++) {
 			// Add the next element to sum

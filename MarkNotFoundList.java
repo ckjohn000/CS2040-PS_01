@@ -33,7 +33,7 @@ public class MarkNotFoundList extends LinkedList {
                 return false;
             }
             if(temp.next.data == key) {
-                newHead = temp.next;
+                newHead = temp.next;ghjhgjhjhh
                 temp.next = newHead.next;
                 newHead.next = head;
                 head = newHead;
